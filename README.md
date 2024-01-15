@@ -37,6 +37,8 @@ Handles mouse wheel events for zooming in and out.
 Handles mouse press events for adjusting the position of the virtual sun.
 #### sunTime():
 Updates the position of the virtual sun based on the specified time.
+### SRS
+Checkout the SRS documentation by clicking <a href="https://docs.google.com/document/d/1rk6uVkhFP9P2b-lTmTy_tp9015qjEK-c/edit?usp=sharing&ouid=102006520757800882539&rtpof=true&sd=true"><button>here</button></a>.
 ## Dependencies
 ### Qt:
 Used for the user interface.
@@ -61,3 +63,12 @@ Feel free to explore and experiment with different STL files and custom time set
 
 
 ![Screenshot (186)](https://github.com/mvanadana/Light_Simulation/assets/149364066/7659b4fb-6f0a-446a-9d07-2357529a2faa)
+
+## Demo Video 
+Checkout the demo video by clicking <a href="https://drive.google.com/file/d/1P5wAndLmKKtU_5qOtrLQY-0flJnxwqiE/view?usp=sharing"><button>here</button></a>.
+
+
+
+
+
+
