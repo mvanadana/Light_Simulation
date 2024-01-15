@@ -57,8 +57,6 @@ Interact with the 3D scene using mouse movements and wheel scrolling.
 Feel free to explore and experiment with different STL files and custom time settings to observe the shadow simulations in the 3D scene.
 ## UI 
 
-![Screenshot (185)](https://github.com/mvanadana/Light_Simulation/assets/149364066/87d9fd6a-8522-4dd1-b85b-7997d4c468fb)
-
 ![Screenshot (187)](https://github.com/mvanadana/Light_Simulation/assets/149364066/bd65c453-5da1-4738-a005-8dc1af7e4ce9)
 
 
