@@ -56,7 +56,10 @@ Click "Set Time" to simulate shadows at the specified time.
 Interact with the 3D scene using mouse movements and wheel scrolling.
 Feel free to explore and experiment with different STL files and custom time settings to observe the shadow simulations in the 3D scene.
 ## UI 
-![Screenshot (185)](https://github.com/mvanadana/Light_Simulation/assets/149364066/851fb9cc-8c98-40dc-ba9a-056accf01b05)
 
-.
-![Screenshot (186)](https://github.com/mvanadana/Light_Simulation/assets/149364066/38add8c1-68ad-4035-9ac1-806405d0b06c)
+![Screenshot (185)](https://github.com/mvanadana/Light_Simulation/assets/149364066/87d9fd6a-8522-4dd1-b85b-7997d4c468fb)
+
+![Screenshot (187)](https://github.com/mvanadana/Light_Simulation/assets/149364066/bd65c453-5da1-4738-a005-8dc1af7e4ce9)
+
+
+![Screenshot (186)](https://github.com/mvanadana/Light_Simulation/assets/149364066/7659b4fb-6f0a-446a-9d07-2357529a2faa)
